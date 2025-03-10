@@ -12,7 +12,7 @@ public class NQueens {
 		if(k> n) {
 			for(int i=1; i<=n;i++) 
 				System.out.println(x[i] +" ");
-				System.out.println();
+			System.out.println();
 			}
 			else
 				for(int i=1; i<=n; i++)
